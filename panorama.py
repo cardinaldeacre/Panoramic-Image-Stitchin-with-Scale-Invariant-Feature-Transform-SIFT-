@@ -107,7 +107,7 @@ if len(good_matches) > MIN_MATCH_COUNT:
 
     plt.tight_layout()
     
-    plt.savefig("./result/reusult.png", dpi=300, bbox_inches='tight')
+    plt.savefig("./result/result.png", dpi=300, bbox_inches='tight')
     plt.show()
 
 else: 
